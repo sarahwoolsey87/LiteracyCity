@@ -1,4 +1,4 @@
-// Particle class
+
 class Particle {
     constructor(x, y, radius, color, velocity) {
       this.x = x;
